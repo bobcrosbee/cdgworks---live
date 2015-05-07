@@ -55,7 +55,7 @@ h1, h2, h3, h4, h5, h6 {
 
 cite {
 	color: @cite;
-	font-size: 1.2rem;
+	font-size: 1.2rem;	
 }
 
 .bg-light-gray {
@@ -258,9 +258,10 @@ section {
 
 @media(min-width:768px) {
 	section {
-		padding: 150px 0;
+		padding: 150px 0 50px 0;
 	}
 }
+
 
 // Services Section
 
@@ -759,4 +760,12 @@ body {
 
 .darker {
 	color: @darker;
+}
+
+.text-intro {
+	color: @gray-darkest;
+}
+
+section#about {
+	background-color: @about-bg;
 }

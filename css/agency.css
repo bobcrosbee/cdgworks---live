@@ -305,7 +305,7 @@ section h3.section-subheading {
 }
 @media (min-width: 768px) {
   section {
-    padding: 150px 0;
+    padding: 150px 0 50px 0;
   }
 }
 .service-heading {
@@ -754,6 +754,22 @@ body {
 }
 .darker {
   color: black;
+}
+.text-intro {
+  color: #222222;
+}
+section#about {
+  background-color: #f3f4f4;
+}
+
+@media (max-width: 991px) {
+    .c100.big {
+        display: none;
+    }
+    blockquote {
+        border-left: 5px solid #D5B258;
+        margin-bottom: 25px;
+    }
 }
 
 /*# sourceMappingURL=agency.css.map */

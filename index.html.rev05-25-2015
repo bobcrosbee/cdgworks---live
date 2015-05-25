@@ -4,16 +4,13 @@
 <meta charset=utf-8>
 <meta http-equiv=X-UA-Compatible content="IE=edge">
 <meta name=viewport content="width=device-width, initial-scale=1">
-<title>Web Design Web Development Augusta, GA and Aiken, SC &#8211; CDGWorks</title>
-<meta name="description" content="CDG Works / Crosbee Design Group is a web design and web development agency providing website design, website development, and responsive and mobile friendly website design and development in Aiken, SC, Augusta, GA, and North Augusta, SC." />
-<meta name="keywords" content=" Aiken web design, Aiken Web Development, Augusta web design, Augusta Web Development, North Augusta web design, North Augusta Web Development, website design, website development, web site design, web site development" />
-<meta property="og:site_name" content="CDG Works - Crosbee Design Group"/>
-<meta name="REVISIT-AFTER" content="15 days"> 
-<meta name="AUTHOR" content="Crosbee Design Group,http://www.cdgworks.com"> 
-<meta name="DISTRIBUTION" content="Global">
-<meta name="RESOURCE-TYPE" content="document"> 
-<meta name="RATING" content="Safe for Kids">
-<link href='http://fonts.googleapis.com/css?family=Tinos:400,700,400italic,700italic|Montserrat:400,700|Open+Sans' rel='stylesheet' type='text/css'>
+<meta name=description content="CDGWORKS is a Website development company based in Aiken, South Carolina with over 16 years of experience. I specialize in professional, responsive, and mobile web development for small to large business.">
+<meta name=description content="CDGWORKS is a Website development and web design company based in Aiken, South Carolina with over 16 years of experience. Professional, responsive, and mobile web development and design for small to large business.">
+<meta name=author content="CDGWORKS - Bob Crosbee">
+<title>Website Development - Front End Website Design and Website Development in South Carolina (SC) - CDGWORKS / Bob Crosbee</title>
+<link href="http://fonts.googleapis.com/css?family=Montserrat:400,700" rel=stylesheet type=text/css>
+<link href='http://fonts.googleapis.com/css?family=Tinos:400,700,400italic,700italic' rel=stylesheet type=text/css>
+<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel=stylesheet type=text/css>
 <link href=css/dist.css rel=stylesheet>
 <link rel=stylesheet href=http://cdn.jsdelivr.net/animatecss/2.1.0/animate.min.css>
 <link href=font-awesome/css/font-awesome.min.css rel=stylesheet type=text/css>
@@ -271,14 +268,13 @@
 <h3 class="section-subheading text-intro">Of course, I can't answer all your questions here, but if you're interested in finding out more about your online business presence please call me at (843) 606-0393, or <a class=page-scroll href=#contact>send me an email from the form below.</a></h3>
 </div>
 </div>
-</div>
 </section>
 <section id=services>
 <div class=container>
 <div class=row>
 <div class="col-lg-12 text-center">
 <h2 class="section-heading wow fadeIn" data-wow-duration=3s>Services</h2>
-<h3 class="section-subheading text-muted wow fadeIn" data-wow-delay=2s>Everything you need. Expertly managed and executed.</h3>
+<h3 class="section-subheading text-muted" wow fadeIn data-wow-delay=2>Everything you need. Expertly managed and executed.</h3>
 </div>
 </div>
 <div class="row text-center">
@@ -333,7 +329,7 @@
 <i class="fa fa-plus fa-3x"></i>
 </div>
 </div>
-<img src=img/portfolio/barbaraHinkel.jpg class=img-responsive alt>
+<img src=img/portfolio/barbaraHinkel.png class=img-responsive alt>
 </a>
 <div class=portfolio-caption>
 <h4>Barbara Hinkel</h4>
@@ -347,7 +343,7 @@
 <i class="fa fa-plus fa-3x"></i>
 </div>
 </div>
-<img src=img/portfolio/scenicValley.jpg class=img-responsive alt>
+<img src=img/portfolio/scenicValley.png class=img-responsive alt>
 </a>
 <div class=portfolio-caption>
 <h4>Scenic Valley</h4>
@@ -361,7 +357,7 @@
 <i class="fa fa-plus fa-3x"></i>
 </div>
 </div>
-<img src=img/portfolio/crewCarolina.jpg class=img-responsive alt>
+<img src=img/portfolio/crewCarolina.png class=img-responsive alt>
 </a>
 <div class=portfolio-caption>
 <h4>Crew Carolina</h4>
@@ -375,7 +371,7 @@
 <i class="fa fa-plus fa-3x"></i>
 </div>
 </div>
-<img src=img/portfolio/follyBeach.jpg class=img-responsive alt>
+<img src=img/portfolio/follyBeach.png class=img-responsive alt>
 </a>
 <div class=portfolio-caption>
 <h4>Folly Beach</h4>
@@ -389,7 +385,7 @@
 <i class="fa fa-plus fa-3x"></i>
 </div>
 </div>
-<img src=img/portfolio/stratPartners.jpg class=img-responsive alt>
+<img src=img/portfolio/stratPartners.png class=img-responsive alt>
 </a>
 <div class=portfolio-caption>
 <h4>Strategic Partners</h4>
@@ -403,7 +399,7 @@
 <i class="fa fa-plus fa-3x"></i>
 </div>
 </div>
-<img src=img/portfolio/si.jpg class=img-responsive alt>
+<img src=img/portfolio/si.png class=img-responsive alt>
 </a>
 <div class=portfolio-caption>
 <h4>SI Solutions</h4>
@@ -417,7 +413,7 @@
 <i class="fa fa-plus fa-3x"></i>
 </div>
 </div>
-<img src=img/portfolio/mack.jpg class=img-responsive alt>
+<img src=img/portfolio/mack.png class=img-responsive alt>
 </a>
 <div class=portfolio-caption>
 <h4>M.A.C.K.</h4>
@@ -431,7 +427,7 @@
 <i class="fa fa-plus fa-3x"></i>
 </div>
 </div>
-<img src=img/portfolio/fleet.jpg class=img-responsive alt>
+<img src=img/portfolio/fleet.png class=img-responsive alt>
 </a>
 <div class=portfolio-caption>
 <h4>Fleet Landing</h4>
@@ -445,7 +441,7 @@
 <i class="fa fa-plus fa-3x"></i>
 </div>
 </div>
-<img src=img/portfolio/healy.jpg class=img-responsive alt>
+<img src=img/portfolio/healy.png class=img-responsive alt>
 </a>
 <div class=portfolio-caption>
 <h4>Michael Healy</h4>
@@ -506,10 +502,9 @@
 </div>
 <div class=col-md-4>
 <ul class="list-inline social-buttons">
-<li><a href="https://twitter.com/cdgworks"><i class="fa fa-twitter"></i></a>
+<li><a href=#><i class="fa fa-twitter"></i></a>
 </li>
-<li><a href="https://www.linkedin.com/profile/view?id=56630940"><i class="fa fa-linkedin"></i></a>
-<li><a href="https://plus.google.com/+Cdgworksweb/posts"><i class="fa fa-google-plus"></i></a>
+<li><a href=#><i class="fa fa-linkedin"></i></a>
 </li>
 </ul>
 </div>
@@ -529,7 +524,7 @@
 <div class="col-lg-8 col-lg-offset-2">
 <div class=modal-body>
 <h2>Barbara Hinkel</h2>
-<img class="img-responsive img-centered" src=img/portfolio/barbaraHinkel-lg.jpg alt="Barbara Hinkel">
+<img class="img-responsive img-centered" src=img/portfolio/barbaraHinkel-lg.png alt="Barbara Hinkel">
 <ul class=list-inline>
 <li><a href=http://www.barbarahinkel.com class="btn btn-primary-site">Visit the site</a>
 </li>
@@ -557,7 +552,7 @@
 <div class="col-lg-8 col-lg-offset-2">
 <div class=modal-body>
 <h2>Scenic Valley Lodge &amp; Outfitters</h2>
-<img class="img-responsive img-centered" src=img/portfolio/scenicValley-lg.jpg alt="Scenic Valley Lodge and Outfitters">
+<img class="img-responsive img-centered" src=img/portfolio/scenicValley-lg.png alt="Scenic Valley Lodge and Outfitters">
 <ul class=list-inline>
 <li><a href=http://www.scenicvalleylodge.com class="btn btn-primary-site">Visit the site</a>
 </li>
@@ -585,7 +580,7 @@
 <div class="col-lg-8 col-lg-offset-2">
 <div class=modal-body>
 <h2>Crew Carolina</h2>
-<img class="img-responsive img-centered" src=img/portfolio/crewCarolina-lg.jpg alt>
+<img class="img-responsive img-centered" src=img/portfolio/crewCarolina-lg.png alt>
 <ul class=list-inline>
 <li>Client: Crew Carolina</li>
 <li>Category: Website Concepts Design</li>
@@ -610,7 +605,7 @@
 <div class="col-lg-8 col-lg-offset-2">
 <div class=modal-body>
 <h2>The City of Folly Beach</h2>
-<img class="img-responsive img-centered" src=img/portfolio/follyBeach-lg.jpg alt="City of Folly Beach design">
+<img class="img-responsive img-centered" src=img/portfolio/follyBeach-lg.png alt="City of Folly Beach design">.</p>
 <ul class=list-inline>
 <li>Client: City of Folly Beach, SC</li>
 <li>Category: Website Concepts Design</li>
@@ -635,7 +630,7 @@
 <div class="col-lg-8 col-lg-offset-2">
 <div class=modal-body>
 <h2>Strategic Partners</h2>
-<img class="img-responsive img-centered" src=img/portfolio/stratPartners-lg.jpg alt="Strategic Partners Design">
+<img class="img-responsive img-centered" src=img/portfolio/stratPartners-lg.png alt="Strategic Partners Design">
 <ul class=list-inline>
 <li>Date: 2009</li>
 <li>Client: Strategic Partners</li>
@@ -661,7 +656,7 @@
 <div class="col-lg-8 col-lg-offset-2">
 <div class=modal-body>
 <h2>SI Solutions</h2>
-<img class="img-responsive img-centered" src=img/portfolio/si-lg.jpg alt="SI Solutions Design">
+<img class="img-responsive img-centered" src=img/portfolio/si-lg.png alt="SI Solutions Design">
 <ul class=list-inline>
 <li>Date: 2012</li>
 <li>Client: SI Solutions</li>
@@ -687,7 +682,7 @@
 <div class="col-lg-8 col-lg-offset-2">
 <div class=modal-body>
 <h2>McCormick Arts Council at the Keturah</h2>
-<img class="img-responsive img-centered" src=img/portfolio/mack-lg.jpg alt="McCormick Arts Council at the Keturah">
+<img class="img-responsive img-centered" src=img/portfolio/mack-lg.png alt="McCormick Arts Council at the Keturah">
 <ul class=list-inline>
 <li><a href=http://www.mccormickarts.org class="btn btn-primary-site">Visit the site</a>
 <li>Date: 2013</li>
@@ -714,7 +709,7 @@
 <div class="col-lg-8 col-lg-offset-2">
 <div class=modal-body>
 <h2>Fleet Landing Restaurant</h2>
-<img class="img-responsive img-centered" src=img/portfolio/fleet-lg.jpg alt="Fleet Landing Restaurant Design">
+<img class="img-responsive img-centered" src=img/portfolio/fleet-lg.png alt="Fleet Landing Restaurant Design">
 <ul class=list-inline>
 <li>Client: Fleet Landing Restaurant - Charleston, SC</li>
 <li>Category: Hybrid Web Development</li>
@@ -739,7 +734,7 @@
 <div class="col-lg-8 col-lg-offset-2">
 <div class=modal-body>
 <h2>Michael Healy</h2>
-<img class="img-responsive img-centered" src=img/portfolio/healy-lg.jpg alt>
+<img class="img-responsive img-centered" src=img/portfolio/healy-lg.png alt>
 <ul class=list-inline>
 <li>Client: Michael Healy</li>
 <li>Category: Website Concept Design</li>

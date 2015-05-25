@@ -205,11 +205,15 @@ fieldset[disabled] .btn-xl.active {
   .navbar-default {
     background-color: transparent;
     padding: 25px 0;
+    -webkit-transition: padding 0.3s;
+    -moz-transition: padding 0.3s;
     transition: padding 0.3s;
     border: none;
   }
   .navbar-default .navbar-brand {
     font-size: 2em;
+    -webkit-transition: all 0.3s;
+    -moz-transition: all 0.3s;
     transition: all 0.3s;
   }
   .navbar-default .navbar-nav > .active > a {
@@ -229,6 +233,8 @@ header {
   background-attachment: scroll;
   background-position: center center;
   background-color: #2e2c2f;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
   background-size: cover;
   -o-background-size: cover;
   text-align: center;
@@ -571,7 +577,7 @@ aside.clients img {
 }
 section#contact {
   background-color: #222222;
-  background-image: url('../img/contact-image.png');
+  background-image: url('../img/contact-image.jpg');
   background-position: center;
   background-repeat: no-repeat;
 }
@@ -655,6 +661,8 @@ ul.social-buttons li a {
   line-height: 40px;
   color: white;
   outline: none;
+  -webkit-transition: all 0.3s;
+  -moz-transition: all 0.3s;
   transition: all 0.3s;
 }
 ul.social-buttons li a:hover,
@@ -671,6 +679,7 @@ ul.social-buttons li a:active {
 .portfolio-modal .modal-content {
   border-radius: 0;
   background-clip: border-box;
+  -webkit-box-shadow: none;
   box-shadow: none;
   border: none;
   min-height: 100%;
@@ -744,9 +753,6 @@ ul.social-buttons li a:active {
   text-shadow: none;
   background: #fed136;
 }
-img::-moz-selection {
-  background: transparent;
-}
 img::selection {
   background: transparent;
 }
@@ -790,5 +796,3 @@ section#contact h3 {
     font-size: 1rem;
   }
 }
-
-/*# sourceMappingURL=agency.css.map */

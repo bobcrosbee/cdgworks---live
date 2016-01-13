@@ -5,30 +5,34 @@
     <meta charset=utf-8>
     <meta http-equiv=X-UA-Compatible content="IE=edge">
     <meta name=viewport content="width=device-width, initial-scale=1">
-    <title>Mobile friendly, Responsive Web Design Development Consultant - Crosbee Design Group</title>
-    <meta name="description" content="Crosbee Design Group is a US-based web design development consultant providing responsive, mobile friendly, website design and development. " />
-    <meta name="keywords" content="Augusta responsive web design, Augusta mobile friendly Web Development, website design consultant, website development consultant, web design, front-end development" />
-    <meta name="robots" content="noodp, noydir">
-    <meta property="og:site_name" content="CDGWORKS - Crosbee Design Group" />
-     <meta name="AUTHOR" content="Crosbee Design Group,http://www.cdgworks.com">
+    <title>Web Design Web Development Augusta, GA and Aiken, SC &#8211; CDGWorks - Crosbee Design Group</title>
+    <meta name="description" content="CDG Works / Crosbee Design Group is a web design and web development agency providing website design, website development, and responsive and mobile friendly website design and development in Aiken, SC, Augusta, GA, and North Augusta, SC." />
+    <meta name="keywords" content=" Aiken web design, Aiken Web Development, Augusta web design, Augusta Web Development, North Augusta web design, North Augusta Web Development, website design, website development, web site design, web site development" />
+    <meta property="og:site_name" content="CDG Works - Crosbee Design Group" />
+    <meta name="REVISIT-AFTER" content="15 days">
+    <meta name="AUTHOR" content="Crosbee Design Group,http://www.cdgworks.com">
     <meta name="DISTRIBUTION" content="Global">
     <meta name="RESOURCE-TYPE" content="document">
-    <meta property="og:locale" content="en_US" />
-    <meta property="og:type" content="website" />
-    <meta property="og:title" content="Mobile friendly, Responsive Web Design Development Consultant - Crosbee Design Group" />
-    <meta property="og:description" content="Crosbee Design Group is a US-based web design development consultant providing responsive, mobile friendly, website design and development" />
-    <meta property="og:url" content="http://www.cdgworks.com" />
-    <meta property="og:site_name" content="CDG Works - Crosbee Design Group" />
-    <meta property="og:image" content="http://www.cdgworks.com/img/logo.png" />
-    <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:description" content="Crosbee Design Group is a US-based web design development consultant providing responsive, mobile friendly, website design and development" />
-    <meta name="twitter:title" content="Mobile friendly, Responsive Web Design Development Consultant - Crosbee Design Group" />
-    <meta name="twitter:site" content="@cdgworks" />
-    <meta name="twitter:domain" content="Web Development" />
-    <meta name="twitter:image:src" content="http://www.cdgworks.com/img/logo.png" />
-    <link href="http://fonts.googleapis.com/css?family=Tinos:400,700,400italic,700italic%7cOpen+Sans%7cMontserrat:400,700" rel="stylesheet" type="text/css">
-    <link href="css/dist.css" rel="stylesheet" type="text/css">
-    <link href=//cloud.webtype.com/css/fac212de-04f7-4339-98f4-00702f394018.css rel="stylesheet" type="text/css" />
+    <meta name="RATING" content="Safe for Kids">
+
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Web Design Web Development Augusta, GA and Aiken, SC &#8211; CDGWorks - Crosbee Design Group" />
+<meta property="og:description" content="CDG Works / Crosbee Design Group is a web design and web development agency providing website design, website development, and responsive and mobile friendly website design and development in Aiken, SC, Augusta, GA, and North Augusta, SC." />
+<meta property="og:url" content="http://www.cdgworks.com" />
+<meta property="og:site_name" content="CDG Works - Crosbee Design Group" />
+<meta property="og:image" content="http://www.cdgworks.com/img/logo.png" />
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:description" content="CDG Works / Crosbee Design Group is a web design and web development agency providing website design, website development, and responsive and mobile friendly website design and development in Aiken, SC, Augusta, GA, and North Augusta, SC."/>
+<meta name="twitter:title" content="Web Design Web Development Augusta, GA and Aiken, SC &#8211; CDGWorks - Crosbee Design Group"/>
+<meta name="twitter:site" content="@cdgworks"/>
+<meta name="twitter:domain" content="Web Development"/>
+<meta name="twitter:image:src" content="http://www.cdgworks.com/img/logo.png"/>
+
+    <link href='http://fonts.googleapis.com/css?family=Tinos:400,700,400italic,700italic|Montserrat:400,700|Open+Sans' rel='stylesheet' type='text/css'>
+    <link href=css/dist.css rel=stylesheet>
+    <link href=font-awesome/css/font-awesome.min.css rel=stylesheet type=text/css>
+    <link href=//cloud.webtype.com/css/fac212de-04f7-4339-98f4-00702f394018.css rel=stylesheet type=text/css />
     <!--[if lt IE 9]>
 <script src=https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js></script>
 <script src=https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js></script>
@@ -36,7 +40,6 @@
 </head>
 
 <body id=page-top class=index>
-
     <nav class="navbar navbar-default navbar-fixed-top">
         <div class=container>
             <div class="navbar-header page-scroll">
@@ -78,8 +81,7 @@
                 <div class="intro-lead-in wow fadeInDownBig" data-wow-delay=2s>Businesses that are online grow</div>
                 <div class="intro-heading wow fadeIn" data-wow-duration=3s data-wow-delay=.5s>40% faster</div>
                 <div class="intro-lead-in2 wow fadeInUpBig" data-wow-delay=2s>than those that aren't.</div>
-                <p>
-                    <cite class="wow fadeIn" data-wow-delay=4s>Source: BCG Report, The Connected World</cite>
+                <p><cite class="wow fadeIn" data-wow-delay=4s>Source: BCG Report, The Connected World</cite>
                 </p>
                 <a href=#facts class="page-scroll btn btn-xl wow swing" data-wow-delay=5s>Show me the facts</a>
             </div>
@@ -108,8 +110,7 @@
                     <div class="col-md-9 col-md-offset-1">
                         <blockquote class=pull-left>
                             <p class="very-large text-muted">Although <span class=darker>many small-business owners claim that word of mouth is their best marketing, it probably shouldn’t be.</span> When it comes to making big purchases, <span class=darker>81% of consumers go online before heading out to a store.</span>
-                            </p>
-                            <cite>Source: GE Capital Retail Bank’s second annual Major Purchase Shopper Study</cite>
+                            </p><cite>Source: GE Capital Retail Bank’s second annual Major Purchase Shopper Study</cite>
                         </blockquote>
                     </div>
                 </div>
@@ -125,8 +126,7 @@
                     <div class="col-md-9 col-md-offset-1">
                         <blockquote class=pull-left>
                             <p class="very-large text-muted"><span class=darker>97%</span> of consumers <span class=darker>search online for products and services—yet 47% of small businesses do not have a website.</span>
-                            </p>
-                            <cite>Source: Google, 2012 and http://www.statisticbrain.com/small-business-website-statistics/</cite>
+                            </p><cite>Source: Google, 2012 and http://www.statisticbrain.com/small-business-website-statistics/</cite>
                         </blockquote>
                     </div>
                 </div>
@@ -142,8 +142,7 @@
                     <div class="col-md-9 col-md-offset-1">
                         <blockquote class=pull-left>
                             <p class="very-large text-muted"><span class="darker animated fadeIn">83%</span> of surveyed US consumers reported that <span class=darker>having a website and using social media</span> was a factor considered of <span class=darker>high importance when choosing small businesses.</span>
-                            </p>
-                            <cite>Source: September 2013 survey by web.com and Toluna</cite>
+                            </p><cite>Source: September 2013 survey by web.com and Toluna</cite>
                         </blockquote>
                     </div>
                 </div>
@@ -158,8 +157,7 @@
                     </div>
                     <div class="col-md-9 col-md-offset-1">
                         <blockquote class=pull-left>
-                            <p class="very-large text-muted"><span class=darker>70% plus of U.S. households</span> now use the <span class=darker>Internet when shopping locally</span> for products and services.</p>
-                            <cite>Source: The Kelsey Group; ConStat</cite>
+                            <p class="very-large text-muted"><span class=darker>70% plus of U.S. households</span> now use the <span class=darker>Internet when shopping locally</span> for products and services.</p><cite>Source: The Kelsey Group; ConStat</cite>
                         </blockquote>
                     </div>
                 </div>
@@ -175,8 +173,7 @@
                     <div class="col-md-9 col-md-offset-1">
                         <blockquote class=pull-left>
                             <p class="very-large text-muted"><span class=darker>61%</span> of searchers consider <span class=darker>local results to be more relevant than standard search results.</span>
-                            </p>
-                            <cite>Source: http://localvox.com/resources/small-business-marketing-statistics</cite>
+                            </p><cite>Source: http://localvox.com/resources/small-business-marketing-statistics</cite>
                         </blockquote>
                     </div>
                 </div>
@@ -197,8 +194,7 @@
                     </div>
                     <div class="col-md-9 col-md-offset-1">
                         <blockquote class=pull-left>
-                            <p class="very-large text-muted"><span class=darker>94% of smartphone users</span> have looked for <span class=darker>local information. 84%</span> have taken <span class=darker>action</span> as a result.</p>
-                            <cite>Source: thinkwithgoogle.com/tools/databoard.html</cite>
+                            <p class="very-large text-muted"><span class=darker>94% of smartphone users</span> have looked for <span class=darker>local information. 84%</span> have taken <span class=darker>action</span> as a result.</p><cite>Source: thinkwithgoogle.com/tools/databoard.html</cite>
                         </blockquote>
                     </div>
                 </div>
@@ -214,8 +210,7 @@
                     <div class="col-md-9 col-md-offset-1">
                         <blockquote class=pull-left>
                             <p class="very-large text-muted"><span class=darker>57%</span> look for <span class=darker>local info at least once a week. 25%</span> look for local info <span class=darker>daily.</span>
-                            </p>
-                            <cite>Source: thinkwithgoogle.com/tools/databoard.html</cite>
+                            </p><cite>Source: thinkwithgoogle.com/tools/databoard.html</cite>
                         </blockquote>
                     </div>
                 </div>
@@ -231,8 +226,7 @@
                     <div class="col-md-9 col-md-offset-1">
                         <blockquote class=pull-left>
                             <p class="very-large text-muted">When it comes to mobile searches, <span class=darker>more than half</span> (55%) resulted in <span class=darker>conversions within one hour</span>
-                            </p>
-                            <cite>Source: Entrepreneur - 6 Ways to Market Your Small Business for Less Than $100</cite>
+                            </p><cite>Source: Entrepreneur - 6 Ways to Market Your Small Business for Less Than $100</cite>
                         </blockquote>
                     </div>
                 </div>
@@ -248,8 +242,7 @@
                     <div class="col-md-9 col-md-offset-1">
                         <blockquote class=pull-left>
                             <p class="very-large text-muted"><span class=darker>73% of mobile searches</span> trigger <span class=darker>follow-up actions</span>, including <span class=darker>purchases, calls, visits and sharing.</span>
-                            </p>
-                            <cite>Source: Google-Nielsen Study, 2012.</cite>
+                            </p><cite>Source: Google-Nielsen Study, 2012.</cite>
                         </blockquote>
                     </div>
                 </div>
@@ -264,8 +257,7 @@
                     </div>
                     <div class="col-md-9 col-md-offset-1">
                         <blockquote class=pull-left>
-                            <p class="very-large text-muted"><span class=darker>61%</span> will <span class=darker>leave immediately if a website is not mobile-friendly</span> and look for move on to another site. </p>
-                            <cite>Source: thinkwithgoogle.com/tools/databoard.html</cite>
+                            <p class="very-large text-muted"><span class=darker>61%</span> will <span class=darker>leave immediately if a website is not mobile-friendly</span> and look for move on to another site. </p><cite>Source: thinkwithgoogle.com/tools/databoard.html</cite>
                         </blockquote>
                     </div>
                 </div>
@@ -286,7 +278,7 @@
                     <p class="wow fadeIn" data-wow-delay=1s>When you first try to start an online presence you're faced with a daunting amount of unfamiliar choices. Maybe modern technology is foreign to you and you don't know what to expect. Maybe you're ready but you don't know where to start, or maybe you just need someone to talk to about how and where to start. Your smartest choice is to turn to a local independent expert to consult with for explaining expectations such as different online marketing options, what the project development schedule would be, how long it would take, and what the likely budget would be. You need to look for a consultant that is capable of earning your trust.</p>
                     <p>Please allow me to introduce myself...</p>
                     <h4 class="wow fadeIn">CDGWORKS: WHO</h4>
-                    <p class="wow fadeIn" data-wow-delay=1s>CDGWORKS is the online name for my business, Crosbee Design Group. My name is Robert Crosbee and I live in Augusta, Georgia.</p>
+                    <p class="wow fadeIn" data-wow-delay=1s>CDGWORKS is the online name for my business, Crosbee Design Group. My name is Robert Crosbee and I live in Aiken, South Carolina.</p>
                     <p class="wow fadeIn" data-wow-delay=1s>I am a web developer and businessman with over 16 years of experience guiding business owners to achieve success with their online marketing and presence. I do that by building websites that address the needs of the business along with the wants of the visitor and effectively positioning their online marketing. I am a web designer and web developer, a project manager, a consultant, and someone you can trust with your online presence. I have worked with agencies in Charleston and Mt. Pleasant, designing and building websites for some of the most prestigious businesses in that area. I've freelanced for most of career, helping business owners realize solutions for their Internet presence - keeping their business relevant and effective online.</p>
                     <h4 class="wow fadeIn">CDGWORKS: WHY</h4>
                     <p class="wow fadeIn" data-wow-delay=1s>Good question. I'll tell you why...professionalism and experience.</p>
@@ -309,35 +301,35 @@
             <div class="row text-center">
                 <div class=col-md-3>
                     <span class="fa-stack fa-4x">
-<p class="fa fa-circle fa-stack-2x text-primary"></p>
-<p class="fa fa-cog fa-stack-1x fa-inverse"></p>
+<i class="fa fa-circle fa-stack-2x text-primary"></i>
+<i class="fa fa-cog fa-stack-1x fa-inverse"></i>
 </span>
                     <h4 class=service-heading>Hybrid Web Development</h4>
                     <p class=text-muted>Design is not detached from development. Integration of knowledge from both sides results in a website which is that much better at appealing to the visual sensibilities of a visitor while simultaneously providing intuitive website functions.</p>
                 </div>
                 <div class=col-md-3>
                     <span class="fa-stack fa-4x">
-<p class="fa fa-circle fa-stack-2x text-primary"></p>
-<p class="fa fa-outdent fa-stack-1x fa-inverse"></p>
+<i class="fa fa-circle fa-stack-2x text-primary"></i>
+<i class="fa fa-outdent fa-stack-1x fa-inverse"></i>
 </span>
                     <h4 class=service-heading>Responsive Design</h4>
                     <p class=text-muted>Responsive design means knowing that your website will be viewable on mobile devices, which is very important to the ever-growing amount of mobile visitors. If your site is not responsive, you are turning away customers without even knowing it.</p>
                 </div>
                 <div class=col-md-3>
                     <span class="fa-stack fa-4x">
-<p class="fa fa-circle fa-stack-2x text-primary"></p>
-<p class="fa fa-rotate-right fa-stack-1x fa-inverse"></p>
+<i class="fa fa-circle fa-stack-2x text-primary"></i>
+<i class="fa fa-rotate-right fa-stack-1x fa-inverse"></i>
 </span>
                     <h4 class=service-heading>Full Cycle Development</h4>
                     <p class=text-muted>I've spent over 16 years managing hundred's of web development projects. I know what's important to you, and how to be effective for your business while managing the project for a smooth experience with amazing results.</p>
                 </div>
-               <div class=col-md-3>
+                <div class=col-md-3>
                     <span class="fa-stack fa-4x">
-<p class="fa fa-circle fa-stack-2x text-primary"></p>
-<p class="fa fa-camera fa-stack-1x fa-inverse"></p>
+<i class="fa fa-circle fa-stack-2x text-primary"></i>
+<i class="fa fa-camera fa-stack-1x fa-inverse"></i>
 </span>
                     <h4 class=service-heading>Photography</h4>
-                    <p class=text-muted>Pictures speak louder than words and you want your products to appeal to your customers. Professional landscape, and product.</p>
+                    <p class=text-muted>Pictures speak louder than words and you want your products to appeal to your customers. Professional landscape, product, and as soon as the FAA clears it, aerial photography and videography will be available.</p>
                 </div>
             </div>
         </div>
@@ -527,7 +519,7 @@
         <div class=container>
             <div class=row>
                 <div class=col-md-4>
-                    <span class=copyright>Copyright &copy; Crosbee Design Group 2016</span>
+                    <span class=copyright>Copyright &copy; Crosbee Design Group 2015</span>
                 </div>
                 <div class=col-md-4>
                     <ul class="list-inline social-buttons">
@@ -536,7 +528,6 @@
                         <li><a href="https://www.linkedin.com/profile/view?id=56630940"><i class="fa fa-linkedin"></i></a>
                             <li><a href="https://plus.google.com/+Cdgworksweb/posts"><i class="fa fa-google-plus"></i></a>
                             </li>
-
                     </ul>
                 </div>
             </div>
@@ -777,7 +768,6 @@
             </div>
         </div>
     </div>
-
     <script src=js/jquery-dist.js></script>
     <script src=js/bootstrap.min.js></script>
     <script src=js/easing-dist.js></script>
@@ -788,21 +778,21 @@
     <script src=js/agency-dist.js></script>
     <script src=js/wow.min-dist.js></script>
     <script>
-    new WOW().init();
+        new WOW().init();
     </script>
     <script>
-    (function(d, e, j, h, f, c, b) {
-        d.GoogleAnalyticsObject = f;
-        d[f] = d[f] || function() {
-            (d[f].q = d[f].q || []).push(arguments)
-        }, d[f].l = 1 * new Date();
-        c = e.createElement(j), b = e.getElementsByTagName(j)[0];
-        c.async = 1;
-        c.src = h;
-        b.parentNode.insertBefore(c, b)
-    })(window, document, "script", "//www.google-analytics.com/analytics.js", "ga");
-    ga("create", "UA-56333305-1", "auto");
-    ga("send", "pageview");
+        (function (d, e, j, h, f, c, b) {
+            d.GoogleAnalyticsObject = f;
+            d[f] = d[f] || function () {
+                (d[f].q = d[f].q || []).push(arguments)
+            }, d[f].l = 1 * new Date();
+            c = e.createElement(j), b = e.getElementsByTagName(j)[0];
+            c.async = 1;
+            c.src = h;
+            b.parentNode.insertBefore(c, b)
+        })(window, document, "script", "//www.google-analytics.com/analytics.js", "ga");
+        ga("create", "UA-56333305-1", "auto");
+        ga("send", "pageview");
     </script>
 </body>
 

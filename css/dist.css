@@ -8153,14 +8153,15 @@ section {
 }
 
 section h2.section-heading {
-    font-size: 50px;
+    font-size: 46px;
     margin-top: 0;
-    margin-bottom: 15px
+    margin-bottom: 15px;
+    letter-spacing: normal
 }
 
 section h3.section-subheading {
     font-size: 19px;
-    font-family: Tinos, Helvetica Neue, Helvetica, Arial, sans-serif;
+/*    font-family: 'Tinos', Helvetica Neue, Helvetica, Arial, sans-serif;*/
     text-transform: none;
     font-style: italic;
     font-weight: 400;
@@ -8694,7 +8695,9 @@ body {
 }
 
 .text-intro {
-    color: #222
+    color: #222;
+    font-style:italic;
+    font-family: 'Tinos';
 }
 
 section#about {

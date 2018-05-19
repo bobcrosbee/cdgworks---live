@@ -1,0 +1,63 @@
+<h2 id="what-you-need">What you need</h2>
+<ol>
+<li>Download Jquery.</li>
+<li>Download Jquery.boxLoader.</li>
+</ol>
+<h2 id="how-to-use">How to use</h2>
+<p>After you downloaded the files, put the scripts before the <code>&lt;/body&gt;</code> tag:</p>
+<pre><code>&lt;script src=&quot;jquery.js&quot;&gt;&lt;/script&gt;
+&lt;script src=&quot;jquery.boxloader.min.js&quot;&gt;&lt;/script&gt;
+</code></pre><p>If you don&#39;t put the scripts before the <code>&lt;/body&gt;</code>, it might doesn&#39;t work correctly.</p>
+<p>Example:</p>
+<pre><code>$(div).boxLoader({
+    direction:&quot;x&quot;,
+    position: &quot;100%&quot;,
+    effect: &quot;fadeIn&quot;,
+    duration: &quot;1s&quot;,
+    windowarea: &quot;50%&quot;
+});
+</code></pre><h2 id="parameters">Parameters</h2>
+<pre><code>direction
+</code></pre><p>The direction you want move the element.</p>
+<p>X (Default).</p>
+<p>Y.</p>
+<p>None.</p>
+<pre><code>position
+</code></pre><p>The value you want to move the element.</p>
+<p>Example: 
+If you want the element appear from the Left but with a little movement to the original position, you might try to set: <code>direction:&quot;x&quot;</code> and <code>position:&quot;-10%&quot;</code>.</p>
+<p>Values:
+-100% to 100%. 50% by default.</p>
+<pre><code>effect
+</code></pre><p>Values:</p>
+<p>FadeIn (Default).</p>
+<p>None.</p>
+<pre><code>duration
+</code></pre><p>Duration fo the animation.
+Values:
+Any you want. 1s by default.</p>
+<pre><code>windowarea
+</code></pre><p>The window area where the element will appear when you are scrolling.</p>
+<p>Example:
+If you set <code>windowarea:100%</code> the element will appear at the bottom of the window.</p>
+<p>Values:
+0% to 100%. 50% default.</p>
+<pre><code>container
+</code></pre><p>If you want to use it when you scroll inside of other container, you need to add:</p>
+<pre><code>$(div).boxLoader({
+    direction:&quot;x&quot;,
+    position: &quot;100%&quot;,
+    effect: &quot;fadeIn&quot;,
+    duration: &quot;1s&quot;,
+    windowarea: &quot;50%&quot;,
+    container: &#39;#your_container_scrollable&#39;.
+});
+</code></pre><h2 id="warnings-">Warnings:</h2>
+<p>Depending of your css, the plugin could present some issues:</p>
+<p>1.Some elements produce overflow of the parent element.</p>
+<p>You need to set <code>overflow-x:hidden</code> to the parent element in your css.</p>
+<p>Example:</p>
+<pre><code>.container { 
+    overflow-x:hidden; 
+}
+</code></pre>

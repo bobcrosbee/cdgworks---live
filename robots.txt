@@ -4,4 +4,5 @@ Disallow: /font-awesome/
 Disallow: /less/
 Disallow: /mail/
 Disallow: /img/
+Disallow: /resume/
 Disallow: BingSiteAuth.xml

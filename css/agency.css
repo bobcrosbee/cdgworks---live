@@ -3,7 +3,7 @@ body {
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 .text-muted {
-  color: #777777;
+  color: #777;
 }
 .text-primary {
   color: #fed136;
@@ -48,14 +48,14 @@ h6 {
   margin: 0 auto;
 }
 cite {
-  color: #a49a7c;
+  color: #A49A7C;
   font-size: 1.2rem;
 }
 .bg-light-gray {
   background-color: #f7f7f7;
 }
 .bg-darkest-gray {
-  background-color: #222222;
+  background-color: #222;
 }
 .btn-primary {
   color: white;
@@ -150,7 +150,7 @@ fieldset[disabled] .btn-xl.active {
   background-color: black;
 }
 .navbar-default {
-  background-color: #222222;
+  background-color: #222;
   border-color: transparent;
 }
 .navbar-default .navbar-brand {
@@ -220,7 +220,7 @@ fieldset[disabled] .btn-xl.active {
     border-radius: 3px;
   }
   .navbar-default.navbar-shrink {
-    background-color: #222222;
+    background-color: #222;
     padding: 10px 0;
   }
   .navbar-default.navbar-shrink .navbar-brand {
@@ -232,7 +232,7 @@ header {
   background-repeat: none;
   background-attachment: scroll;
   background-position: center center;
-  background-color: #2e2c2f;
+  background-color: #2E2C2F;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
@@ -576,7 +576,7 @@ aside.clients img {
   margin: 50px auto;
 }
 section#contact {
-  background-color: #222222;
+  background-color: #222;
   background-image: url('../img/contact-image.jpg');
   background-position: center;
   background-repeat: no-repeat;
@@ -653,7 +653,7 @@ ul.social-buttons {
 }
 ul.social-buttons li a {
   display: block;
-  background-color: #222222;
+  background-color: #222;
   height: 40px;
   width: 40px;
   border-radius: 100%;
@@ -722,7 +722,7 @@ ul.social-buttons li a:active {
   height: 75px;
   width: 1px;
   margin-left: 35px;
-  background-color: #222222;
+  background-color: #222;
   transform: rotate(45deg);
   -ms-transform: rotate(45deg);
   /* IE 9 */
@@ -733,7 +733,7 @@ ul.social-buttons li a:active {
 .portfolio-modal .close-modal .lr .rl {
   height: 75px;
   width: 1px;
-  background-color: #222222;
+  background-color: #222;
   transform: rotate(90deg);
   -ms-transform: rotate(90deg);
   /* IE 9 */
@@ -769,10 +769,10 @@ body {
   color: black;
 }
 .text-intro {
-  color: #222222;
+  color: #222;
 }
 section#about {
-  background-color: #f3f4f4;
+  background-color: #F3F4F4;
 }
 h4 {
   font-size: 26px;

@@ -1,7 +1,0 @@
-User-agent: *
-Disallow: /zohoverify/
-Disallow: /font-awesome/
-Disallow: /less/
-Disallow: /mail/
-Disallow: /img/
-Disallow: BingSiteAuth.xml

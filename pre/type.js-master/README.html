@@ -1,0 +1,91 @@
+<h1 id="type-js">Type.js</h1>
+<p>Type.js adds new type properties to your CSS, giving you the control you need for type on the web. You can write these properties in your CSS and they will work like any other property.</p>
+<p>View <code>index.html</code> to see these new properties in action.</p>
+<h2 id="properties">Properties</h2>
+<h3 id="kerning-pairs">Kerning Pairs</h3>
+<p>Adjust the space between specific glyphs with a clear syntax. Just type in the two glyphs you want to kern, then the amount space you want.</p>
+<h4 id="properties">Properties</h4>
+<p><code>kerning-pairs</code> accepts a comma separated list of two glyphs, then the distance you want between them. Accepts positive or negative distances.</p>
+<pre><code class="lang-CSS">kerning-pairs: az 0.02em;
+</code></pre>
+<p><em>Values:</em> {Any glyph}{Any glyph} {Any distance}{Any CSS unit}</p>
+<h4 id="example-css">Example CSS</h4>
+<pre><code class="lang-CSS">h1 {
+  font-size: 3em;
+  line-height: 1.2;
+  kerning-pairs: az 0.02em,
+                 zy 0.01em,
+                 th 0.01em,
+                 ov -0.02em; 
+}
+</code></pre>
+<h3 id="rag-adjust">Rag Adjust</h3>
+<p>Set rules for where you want your lines to break in a paragraph.</p>
+<h4 id="properties">Properties</h4>
+<p><code>rag-adjust</code> accepts four values that describe where your lines should break.</p>
+<pre><code class="lang-CSS">rag-adjust: small-words;
+</code></pre>
+<p><em>Values:</em></p>
+<ul>
+<li><code>emphasis</code> – Text of three or less words in bold or italics does not break across lines.</li>
+<li><code>small-words</code> – Breaks lines before words of three or less characters.</li>
+<li><code>prepositions</code> – Breaks lines before prepositions.</li>
+<li><code>dashes</code> – Breaks lines before hyphens and dashes.</li>
+<li><code>all</code> – Breaks lines before all of the above.</li>
+</ul>
+<h4 id="example-css">Example CSS</h4>
+<pre><code class="lang-CSS">p, li, h3, dd {
+  max-width: 35em;
+  rag-adjust: small-words;
+}
+</code></pre>
+<h3 id="widow-adjust">Widow Adjust</h3>
+<p>Set rules for how you want to adjust styles to eliminate widows – or any grouping of less than 14 characters on the last line of a paragraph – in your text.</p>
+<h4 id="properties">Properties</h4>
+<p><code>widow-adjust</code> accepts the style property you want to use to fix your paragraph.</p>
+<pre><code class="lang-CSS">widow-adjust: padding-right;
+</code></pre>
+<p><em>Values:</em></p>
+<ul>
+<li><code>padding-right</code> – Increases <code>padding-right</code> until the widow is fixed. (Using <code>box-sizing: border-box;</code>)</li>
+<li><code>padding-left</code> – Increases <code>padding-left</code> until the widow is fixed. (Using <code>box-sizing: border-box;</code>)</li>
+<li><code>word-spacing</code> – Removes <code>word-spacing</code> until the widow is fixed.</li>
+<li><code>nbsp</code> – Adds a <code>&amp;nbsp;</code> character between the last few words of the paragraph.</li>
+</ul>
+<h4 id="example-css">Example CSS</h4>
+<pre><code class="lang-CSS">p, li, h3, dd {
+  max-width: 35em;
+  widow-adjust: padding-right;
+}
+</code></pre>
+<h3 id="min-max-font-size">Min/max font-size</h3>
+<p>Set a minimum and maximum font-size for text when using a viewport unit for font-size.</p>
+<h4 id="properties">Properties</h4>
+<p><code>min-font-size</code> and <code>max-font-size</code> accepts any <code>font-size</code> value and CSS unit. Does not accept viewport units.</p>
+<pre><code class="lang-CSS">min-font-size: 20px;
+</code></pre>
+<p><em>Values:</em> {Any value}{Any css unit}</p>
+<h4 id="example-css">Example CSS</h4>
+<pre><code class="lang-CSS">h1 {
+  font-size: 3em;
+  font-size: 4vw;
+  max-font-size: 50px;
+  min-font-size: 30px;
+}
+</code></pre>
+<h2 id="issues">Issues</h2>
+<p>Type.js only works within <code>style</code> tags on a page. For now. You can try using your external stylesheets by changing an option in the <code>type.js</code> file. Change:</p>
+<pre><code class="lang-JS">stylefill.options({
+
+  externalCSS : false
+
+});
+</code></pre>
+<p>To:</p>
+<pre><code class="lang-JS">stylefill.options({
+
+  externalCSS : true
+
+});
+</code></pre>
+<p><em>Note:</em> This will cause the browser to download your external CSS files twice. Once, as per usual, and again to read the <code>type.js</code> property values. </p>
